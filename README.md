@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br><br>
 <div align="center">
   <a href="https://solved.ac/ssjm5305">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=ssjm5305" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssjm5305" alt="Solved.ac Profile" />
   </a>
 </div>
 <br><br>
